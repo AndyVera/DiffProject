@@ -283,3 +283,4 @@ void printNonSuppressedLines(const char* leftfile, const char* rightfile){
           q = para_next(q);
         }
 }
+
